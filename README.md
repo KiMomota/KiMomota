@@ -1,15 +1,4 @@
 
-<!--
-**ahangchen/ahangchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<a href="https://github.com/ahangchen/windy-afternoon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahangchen&repo=windy-afternoon&show_icons=true&line_height=27" />
-</a>
-<a href="https://github.com/ahangchen/TFusion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahangchen&repo=TFusion&show_icons=true&line_height=27"/>
-</a>
-
--->
 > 华南理工大学本硕毕业，目前关注计算机视觉相关研究。曾经在腾讯QQ邮箱、腾讯AI Lab实习，现就职于深圳大疆创新。
 
 ## Paper List
